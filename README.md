@@ -22,3 +22,5 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 To run this application locally on your machine, please refer to the source code repository located at https://github.com/d606n6k/code-refactor and clone onto your machine.
 
+## Technologies Used
+This Application was built utilizing HTML and CSS with no dependencies
