@@ -1,5 +1,5 @@
 # <Horiseon Landing Page Code Refactor>
-![](horiseon.png)
+![Hero Image](horiseon.png)
 ## Description
 - What was your motivation?
 
